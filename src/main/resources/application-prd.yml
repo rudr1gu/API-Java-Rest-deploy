@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://${PGHOST}:${PGPORT}/${PGDATABASE}
+    url: jdbc:postgresql://postgres:GtPvzhiJJnfBZBmmKBwprNKuGPucRuDu@tramway.proxy.rlwy.net:28998/railway
     username: ${PGUSER}
     password: ${PGPASSWORD}
   jpa:
